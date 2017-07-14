@@ -1,5 +1,8 @@
 This project was started following this page https://code.visualstudio.com/docs/nodejs/reactjs-tutorial.
 
+The project list code was adapted from https://facebook.github.io/react/docs/thinking-in-react.html.
+
+After cloning from git, navigate to target folder and run npm install to add node_modules to folder. Then run npm start to view website at http://localhosT:3000.
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
