@@ -1,0 +1,5 @@
+// Place your settings in this file to overwrite default and user settings.
+{
+    // Restore the last typed input when reopening the Command Palette
+    "workbench.commandPalette.preserveInput":true
+}

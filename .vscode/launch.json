@@ -10,6 +10,13 @@
         },
         {
             "type": "chrome",
+            "request": "launch",
+            "name": "Launch Chrome against iis",
+            "url": "https://reactjs-products.ablack.com/index.html",
+            "webRoot": "${workspaceRoot}"
+        },
+        {
+            "type": "chrome",
             "request": "attach",
             "name": "Attach to Chrome",
             "port": 9222,

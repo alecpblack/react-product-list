@@ -27,7 +27,6 @@ class ProductTable extends Component {
         let lastCategory = null;
         let filterText = this.props.filterText;
         let inStockOnly = this.props.inStockOnly;
-        console.log('inStockOnly: '+this.props.inStockOnly);
 
         this.props.products.forEach(function (product) {
             if (inStockOnly && !product.stocked) { return; }
